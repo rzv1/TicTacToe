@@ -1,2 +1,2 @@
 
-![Live Demo](https://rzv1.github.io/TicTacToe/)
+[Live Demo](https://rzv1.github.io/TicTacToe/)
